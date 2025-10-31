@@ -1,0 +1,13 @@
+{
+    "bot_token": "8065648588:AAFoivoE3wO-wV3Rwr0_0ZxDNJuHSOZmrZU",
+    "bot_name": "minechain_arzia_bot",
+    "bot_username": "minechain_arzia_bot",
+    "token_address": "0x76589d79bdbca32b82d9391d5fbb9f199d2af6fa",
+    "website": "https://minechain-testnet.netlify.app/",
+    "chart_url": "https://dexscreener.com/",
+    "explorer_url": "https://etherscan.io/token/",
+    "docs_url": "https://minechain-testnet.netlify.app/docs",
+    "arzia_url": "https://minechain-testnet.netlify.app/arzia",
+    "twitter": "https://twitter.com/minechain",
+    "telegram": "https://t.me/minechain_announcements"
+}
