@@ -9,5 +9,6 @@
     "docs_url": "https://minechain-testnet.netlify.app/docs",
     "arzia_url": "https://minechain-testnet.netlify.app/arzia",
     "twitter": "https://twitter.com/minechain",
-    "telegram": "https://t.me/minechain_announcements"
+    "telegram": "https://t.me/minechain_announcements",
+    "price_api_url": "https://api.coingecko.com/api/v3/simple/token_price/ethereum?contract_addresses=0x76589d79bdbca32b82d9391d5fbb9f199d2af6fa&vs_currencies=usd&include_24hr_change=true"
 }
